@@ -1,0 +1,10 @@
+guests = ["danny", "lebron", "damien"]
+guests.append("pat")
+guests.append("marty")
+guests.append("bob")
+print(f"Hey {guests[0].title()}, I would like you to come to dinner.")
+print(f"Hey {guests[1].title()}, I would like you to come to dinner.")
+print(f"Hey {guests[2].title()}, I would like you to come to dinner.")
+print(f"Hey {guests[3].title()}, I would like you to come to dinner.")
+print(f"Hey {guests[4].title()}, I would like you to come to dinner.")
+print(f"Hey {guests[5].title()}, I would like you to come to dinner.")
