@@ -1,4 +1,4 @@
-
+#in this i use .items(), .keys(), and .values() to print out the information in the dictionary
 
 rivers = {"nile": "egypt", "amazon": "brazil", "mississippi": "united states"}
 for river, country in rivers.items():

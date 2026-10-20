@@ -1,4 +1,4 @@
-
+#creates a dictionary with my friends and our favorite numbers then prints them individually
 
 favorite_numbers = {"brandon": 13, "liam": 9, "cris": 25, "alexis": 19, "drago": 88}
 print(favorite_numbers["brandon"])
